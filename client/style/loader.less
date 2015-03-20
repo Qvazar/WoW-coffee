@@ -1,0 +1,19 @@
+.loader {
+	.destroy {
+		animation: loader-destroy, 500ms;
+	}
+
+	.destroyed {
+		display: none;
+	}
+}
+
+@keyframes loader-destroy {
+	from {
+		opacity: 100%;
+	}
+
+	to {
+		opacity: 0%;
+	}
+}

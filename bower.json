@@ -1,0 +1,19 @@
+{
+  "name": "WoW-coffee",
+  "version": "1.0.0",
+  "authors": [
+    "Qvazar <sebjorg@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
